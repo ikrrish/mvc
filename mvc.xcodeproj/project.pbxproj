@@ -14,6 +14,7 @@
 		C22AF3302A569C610012AE59 /* mvc.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C22AF32E2A569C610012AE59 /* mvc.xcdatamodeld */; };
 		C22AF3322A569C620012AE59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C22AF3312A569C620012AE59 /* Assets.xcassets */; };
 		C22AF3352A569C620012AE59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C22AF3332A569C620012AE59 /* LaunchScreen.storyboard */; };
+		C22AF33D2A56A0CD0012AE59 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C22AF33C2A56A0CD0012AE59 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C22AF3312A569C620012AE59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C22AF3342A569C620012AE59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C22AF3362A569C620012AE59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C22AF33C2A56A0CD0012AE59 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				C22AF3272A569C610012AE59 /* SceneDelegate.swift */,
 				C22AF3292A569C610012AE59 /* ViewController.swift */,
 				C22AF32B2A569C610012AE59 /* Main.storyboard */,
+				C22AF33C2A56A0CD0012AE59 /* TableViewCell.swift */,
 				C22AF3312A569C620012AE59 /* Assets.xcassets */,
 				C22AF3332A569C620012AE59 /* LaunchScreen.storyboard */,
 				C22AF3362A569C620012AE59 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C22AF33D2A56A0CD0012AE59 /* TableViewCell.swift in Sources */,
 				C22AF32A2A569C610012AE59 /* ViewController.swift in Sources */,
 				C22AF3262A569C610012AE59 /* AppDelegate.swift in Sources */,
 				C22AF3302A569C610012AE59 /* mvc.xcdatamodeld in Sources */,
